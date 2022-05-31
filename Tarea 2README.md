@@ -9,4 +9,5 @@ OBANDO LÓPEZ CHRISTIAN MATEO
   Emplear los conocimientos de la ley de Ohm, energía y potencia y aplicarlos en la realización de ejercicios acordados del libro de "Principios de circuitos" del capítulo 3 y 4 respectivamente.
 
 1.2 OBJETIVOS ESPECÍFICOS
+
   Utilizar la ley de Ohm para calcular la corriente, el voltaje  
