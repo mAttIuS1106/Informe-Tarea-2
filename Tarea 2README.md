@@ -20,6 +20,10 @@ OBANDO LÓPEZ CHRISTIAN MATEO
 
   ![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/MARCO%20TE%C3%93RICO%201.PNG)
   
+  A continuación se puede una tabla para visualizar de mejor manera la realción entre corriente y voltaje 
+  
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/MARCO%20TEORICO%202.PNG)
+  
   
   
   
