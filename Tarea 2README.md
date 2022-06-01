@@ -18,6 +18,8 @@ OBANDO LÓPEZ CHRISTIAN MATEO
   
  2. MARCO TEÓRICO
 
-  ![]()
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/MARCO%20TE%C3%93RICO%201.PNG)
+  
+  
   
   
