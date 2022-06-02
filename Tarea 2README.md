@@ -26,7 +26,28 @@ OBANDO LÓPEZ CHRISTIAN MATEO
   
   ![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/MARCO%20TE%C3%93RICO%203.PNG)
   
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/MARCO%20TE%C3%93RICO%204.PNG)
   
+ 3.RESOLUCIÓN DE EJERCICIOS
+ 
+ SECCIÓN 3–1 La relación de corriente, voltaje y resistencia
+ 
+  2.Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.
   
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/EJERCICIO%202.PNG)
+  
+  4.Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
+  
+  ![](
+  
+  6.En cierto circuito, I=5mA cuando V=1V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.
+  
+  ![](
+  
+  8.Trace la relación corriente-voltaje para una resistencia de cuatro bandas con código de colores gris, rojo, rojo, oro.
+  
+  ![](
+  
+  10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
   
   
