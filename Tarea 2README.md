@@ -24,6 +24,9 @@ OBANDO LÓPEZ CHRISTIAN MATEO
   
   ![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/MARCO%20TEORICO%202.PNG)
   
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/MARCO%20TE%C3%93RICO%203.PNG)
+  
+  
   
   
   
