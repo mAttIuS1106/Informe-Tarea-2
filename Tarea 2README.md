@@ -30,7 +30,7 @@ OBANDO LÓPEZ CHRISTIAN MATEO
   
  3.RESOLUCIÓN DE EJERCICIOS
  
- SECCIÓN 3–1 La relación de corriente, voltaje y resistencia
+ CAPITULO 3
  
   2.Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.
   
@@ -107,6 +107,15 @@ OBANDO LÓPEZ CHRISTIAN MATEO
   34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A.     ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15
 
 ![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/EJERCICIO%2034.PNG)
+
+  36.En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.
+  
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/EJERCICIO%2036.PNG)
+  
+  LA CUARTA BOMBILLA ESTA ABIERTA CONTANDO DESDE LA IZQUIERDA
+  
+CAPITULO 4
+
 
 
   
