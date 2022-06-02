@@ -38,15 +38,15 @@ OBANDO LÓPEZ CHRISTIAN MATEO
   
   4.Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
   
-  ![](
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/EJERCICIO%204.PNG)
   
   6.En cierto circuito, I=5mA cuando V=1V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.
   
-  ![](
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/EJERCICIO%206.PNG)
   
   8.Trace la relación corriente-voltaje para una resistencia de cuatro bandas con código de colores gris, rojo, rojo, oro.
   
-  ![](
+  ![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/EJERCICIO%208.PNG)
   
   10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
   
