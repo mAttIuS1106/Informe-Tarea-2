@@ -190,14 +190,19 @@ CAPITULO 4
 
 4.VIDEO
 
+https://youtu.be/PLAfvEJ9fTg
+
 5.CONCLUSIONES
+
+
 
 6.BIBLIOGRAFIA
 
+Floyd, T. L. (2022). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
 
+Blanco, T. (19 de febrero de 2021). Obtenido de https://www.bbva.com/es/sostenibilidad/que-es-y-como-calcular-la-potencia-electrica/
 
-
-  
+Electrónica. (08 de enero de 2021). Obtenido de https://www.redeweb.com/actualidad/resistencia-electrica/
 
 
   
