@@ -116,6 +116,80 @@ OBANDO LÓPEZ CHRISTIAN MATEO
   
 CAPITULO 4
 
+2.Demuestre que hay 3.6x10^6 joules en un kilowatt-hora.
+
+![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/EJ.2.PNG)
+
+4.¿Cuántos vatios se utilizan cuando se consumen 7500 J de energía en 5 h?
+
+![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/EJ.4.PNG)
+
+6.Convierta las siguientes cantidades en kilovatios:
+
+![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/EJ.6.PNG)
+
+8.Convierta las siguientes cantidades en milivatios:
+
+![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/EJ.8.PNG)
+
+10.Convierta las siguientes cantidades en vatios:
+
+![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/EJ.10.PNG)
+
+12.Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
+
+![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/EJ.12.PNG)
+
+14.Convierta 5x10^6 vatios-minutos en kWh.
+
+![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/EJ.14.PNG)
+
+16.¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Ω para consumir 25J?
+
+![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/EJ.16.PNG)
+
+18.Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
+
+![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/EJ.18.PNG)
+
+20.¿Cuál es la potencia cuando 500 mA de corriente se registran en una resistencia de 4,7 kΩ?
+
+![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/EJ.20.PNG)
+
+22.Si entre los extremos de una resistencia de 680Ω existen 60 V, ¿cuál es la potencia?
+
+![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/EJ.22.PNG)
+
+24.Si una resistencia tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohmios debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
+
+![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/EJ.24.PNG)
+
+26.Un resistor de 6.8 kΩ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar
+
+![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/EJ.26.PNG)
+
+28.En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor
+
+![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/EJ.28.PNG)
+
+30.Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10Ω antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
+
+![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/EJ.30.PNG)
+
+32.Una batería puede proporcionar un promedio de 1,5 A de corriente durante 24 h. ¿Cuál es su capacidad? en amperes-hora?
+
+![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/EJ.32.PNG)
+
+34.Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio se suministrará durante 48 h?
+
+![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/EJ.34.PNG)
+
+36.Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
+
+![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/EJ.36.PNG)
+
+
+
 
 
   
