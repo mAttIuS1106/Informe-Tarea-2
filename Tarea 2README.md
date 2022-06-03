@@ -188,6 +188,11 @@ CAPITULO 4
 
 ![](https://github.com/mAttIuS1106/Informe-Tarea-2/blob/main/EJ.36.PNG)
 
+4.VIDEO
+
+5.CONCLUSIONES
+
+6.BIBLIOGRAFIA
 
 
 
