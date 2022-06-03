@@ -194,7 +194,9 @@ https://youtu.be/PLAfvEJ9fTg
 
 5.CONCLUSIONES
 
+Aplicando la ley de Ohm y familiarizándonos con la relación entre las magnitudes de la corriente, la diferencia de potencial y la inductancia, tiene la fórmula: la diferencia de potencial es igual a la inductancia multiplicada por la corriente, y la inductancia es igual a la diferencia eléctrica.
 
+Al implementar la ley de Ohm y la ley de Kirchhoff, uno puede darse cuenta de manera eficiente de los diferentes componentes de cada circuito y, por lo tanto, relacionar la resistencia equivalente entre circuitos, entre otros circuitos. Además, se entenderá cómo determinar errores en el circuito eléctrico.
 
 6.BIBLIOGRAFIA
 
